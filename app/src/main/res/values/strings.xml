@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="story1">You are in a hurry to go somewhere,suddenly a man drives up to you and offers you a ride. "hop in i will give you a ride  " he says</string>
+    <string name="answer1">Hop in and take the ride</string>
+    <string name="answer2">Ask him if he is a kidnapper</string>
+
+    <string name="story2">On the ride, the man begins to as you questions."are you the son of a rich person" he says</string>
+    <string name="answer3">Answer the question(yes) </string>
+    <string name="answer4">Totally ignore him</string>
+                 or
+    <string name="story3">"Yes" he says</string>
+    <string name="answer5">Run away screaming</string>
+    <string name="answer6">Admire him for his honesty and get in</string>
+
+    <string name="story4">"Wow that's awesome" he said."maybe i can come visit you guys sometime" and then flashes you a cocky smile</string>
+    <string name="answer7">Agree with him </string>
+    <string name="answer8">Disagree with him</string>
+    <string name="story5">"Ok then never mind,but where are you heading"he said</string>
+    <string name="answer9">Tell him where u are going</string>
+    <string name="answer10">Tell him to mind his business</string>
+                 or
+    <string name="story6">"wait come back!!!!!"he says</string>
+    <string name="answer11">keep running and screaming</string>
+    <string name="answer12">Turn back and slap him</string>
+    <string name="story7">"i like the way you think"he says,and then point a gun at you</string>
+    <string name="answer13">keep quiet and slowly get into the car</string>
+    <string name="answer14">try to tackle him and get the gun</string>
+</resources>
